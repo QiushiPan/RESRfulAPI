@@ -1,1 +1,0 @@
-18-Dec-2018 12:37:31.441 ¾¯¸æ [https-openssl-nio-443-exec-10] org.apache.tomcat.util.net.TLSClientHelloExtractor.<init> The ClientHello was not presented in a single TLS record so no SNI information could be extracted
